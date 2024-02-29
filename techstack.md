@@ -3,15 +3,15 @@
 ## Tech Stack
 todaypp/react-saas-template is built on the following main stack:
 
-- [Google Analytics](http://www.google.com/analytics) – General Analytics
-- [Stripe](https://stripe.com) – Payment Services
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Material-UI](https://github.com/mui/material-ui) – Front-End Frameworks
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - [Recharts](http://recharts.org/) – Charting Libraries
-- [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Google Analytics](http://www.google.com/analytics) – General Analytics
+- [Stripe](https://stripe.com) – Payment Services
+- [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -21,15 +21,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 todaypp/react-saas-template is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' alt='Google Analytics'/> [Google Analytics](http://www.google.com/analytics) – General Analytics
-- <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png' alt='Material-UI'/> [Material-UI](https://github.com/mui/material-ui) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/5608/13690587.png' alt='Recharts'/> [Recharts](http://recharts.org/) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' alt='Google Analytics'/> [Google Analytics](http://www.google.com/analytics) – General Analytics
+- <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [todaypp/react-saas-template](https://github.com/todaypp/react-saas-template)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|23<br/>Tools used|01/23/24 <br/>Report generated|
+|23<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
